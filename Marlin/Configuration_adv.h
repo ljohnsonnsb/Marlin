@@ -719,7 +719,7 @@
   // If not defined, probe limits will be used.
   // Override with 'M422 S<index> X<pos> Y<pos>'
   // Hermera bltouch on front
-  #define Z_STEPPER_ALIGN_XY { { 40,140 }, { 200,140} }
+  #define Z_STEPPER_ALIGN_XY { { 40,140 }, { 190,140} }
 
   /**
    * Orientation for the automatically-calculated probe positions.
