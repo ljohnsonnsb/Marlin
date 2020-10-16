@@ -158,8 +158,8 @@
 #define HEATER_2_PIN                        PE6
 #define HEATER_3_PIN                        PE5
 #define HEATER_4_PIN                        PE4
-#define HEATER_5_PIN                        PE3
-#define HEATER_BED_PIN                      PE2
+//#define HEATER_5_PIN                        PE3
+#define HEATER_BED_PIN                      PE3 // PE2 blown
 
 #ifndef FAN_PIN
   #define FAN_PIN                           PF8

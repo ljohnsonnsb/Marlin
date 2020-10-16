@@ -44,7 +44,7 @@
   #define SERVO0_PIN                        PB11
 #endif
 
-#define PS_ON_PIN                           PH6
+//#define PS_ON_PIN                           PH6
 
 //
 // Limit Switches
@@ -54,7 +54,7 @@
 #define Y_MIN_PIN                           PC13
 #define Y_MAX_PIN                           PG9
 #define Z_MIN_PIN                           PE0
-#define Z_MAX_PIN                           PD3
+#define Z_MAX_PIN                           PH6   //PD3
 
 //
 // Pins on the extender
