@@ -183,7 +183,7 @@
 #define SDIO_CMD_PIN                        PD2
 
 #ifndef SDCARD_CONNECTION
-  #define SDCARD_CONNECTION              ONBOARD
+  #define SDCARD_CONNECTION              LCD
 #endif
 
 #if SD_CONNECTION_IS(ONBOARD)
